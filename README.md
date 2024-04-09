@@ -12,7 +12,7 @@
 
 <br/>
 
-```
+```cs
 CallNetinova<Project> (something_i_need);
 
 public void CallNetinova<TProject> (TProject any)
