@@ -60,11 +60,9 @@ All coding projects are built from the ground up, from planning and designing al
 
 ## Languages
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinova&layout=compact&theme=react" />
- <img img align="right" alt="Coding" width="200" transform: translateY(20px) src="https://camo.githubusercontent.com/778714951cd9b5d78e576f2148df29a73a2f84cddad602518eca234511a8fa25/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966">
-</div>
- 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinova&layout=compact&theme=react" /></p>
+
+<img align="center" width="350" src="https://camo.githubusercontent.com/778714951cd9b5d78e576f2148df29a73a2f84cddad602518eca234511a8fa25/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966">
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=netinova&theme=dark&hide_border=true)](https://git.io/streak-stats)
