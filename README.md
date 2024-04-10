@@ -58,7 +58,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 <br/>
 
-## Languages
+## Favorite Languages
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinova&layout=compact&theme=react" /></p>
 
