@@ -69,7 +69,7 @@ All coding projects are built from the ground up, from planning and designing al
   <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />              
 </p>
 
-## IDES:
+## IDEs:
 <p>
   <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />         
