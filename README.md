@@ -75,10 +75,10 @@ Currently i can build Desktop apps (.net), Android apps (kotlin), Web apps (reac
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img style="width: 50%" align="left" src="https://github-readme-stats.vercel.app/api?username=netinova&theme=react&show_icons=true&hide_border=true&count_private=true" />
+      <img style="width: 45%" align="left" src="https://github-readme-stats.vercel.app/api?username=netinova&theme=react&show_icons=true&hide_border=true&count_private=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinova&theme=react&show_icons=true&hide_border=true&layout=compact" />
+      <img align="right" style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinova&theme=react&show_icons=true&hide_border=true&layout=compact" />
     </a>
   </div>
   <br><br><br>
