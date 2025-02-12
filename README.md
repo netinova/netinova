@@ -1,30 +1,26 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 # ⭐Netinova⭐
-
-
-<p align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=1000&color=69EAF7&center=true&vCenter=true&random=false&width=435&lines=Hi;I+am+netinova;aka+Mani" alt="Typing SVG" /></a>
-  
-</p>
-
+<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=netinova.netinova" alt="visitor badge"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=6BAAAE&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Mani...;nice+to+meet+you!" alt="Typing SVG" /></a>
+</h1>
 
 <br/>
 
 ```cs
-CallNetinova<Project> (something_i_need);
 
-public void CallNetinova<TProject> (TProject any)
+public Project CompleteProject<Tproject>(Tproject project)
 {
-  //job's done!!!
+    Tproject completedProject = //completing the project;
+    return completedProject;
 }
+
 ```
 <br>
-i am an indie developer developing desktop applications and aiming to be a fullstack developer in the near future! a passionate student learning the art of code and pixels💻<br>
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am a Student learning the art of Code and enthusiastic about creating cool stuff that people may find usefull and intresting.
+Currently i can build Desktop apps (.net), Android apps (kotlin), Web apps (react/.net Core) and more. I'm aiming to be a Full Stack Web Developer 🌐 and ML Engineer 🤖.
 
 
 <hr>
