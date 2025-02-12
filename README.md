@@ -31,15 +31,16 @@ Currently i can build Desktop apps (.net), Android apps (kotlin), Web apps (reac
 <br>
 <img img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🌱 I’m currently learning **React, Javascript, SQl**
+### 🧐 More About Me:
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
-
-- 💬 Ask me about **C#, SQL, HTML/CSS**
-
-- 📫 How to reach me **manibaghdadi484@gmail.com**
-
-- ⚡ Fun fact **Ima awesome :3**
+- 🔭 &nbsp; I’m currently working on **nothing right now**
+- 🤝 &nbsp; I’m looking to collaborate on 
+- 🌱 &nbsp; I’m currently learning react; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/netinovem?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn]()
+- 📝 &nbsp; Checkout my [resume]()
+- 📚 &nbsp; When I am free, I play games and read IT related books.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,44 +49,43 @@ Currently i can build Desktop apps (.net), Android apps (kotlin), Web apps (reac
 </p>
 <br/><br/><br/>
 
-## Languages that i know:
-<p align="left"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" /><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />  
-</p>
-
-## FrameWorks and Tools that i work with:
-<p align="left"> 
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />              
-</p>
-
-## IDEs:
-<p>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />         
-</p>
-
-## Other:
-<p>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />      
-</p>
-
+<h2 align="center"> ⚙️ Languages & Tools </h2>
+<br><br>
+<div align=left>
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Csharp.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Kotlin_intensifies.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Python.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/React%20Js%20Sticker%20by%20EscuelaDevRock.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Js%20Html%20Sticker%20by%20codearock.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Style%20Css%20Sticker%20by%20codearock.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/React%20Js%20Sticker%20by%20codearock.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/sass-1-logo-png-transparent.png">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/sql.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Code%20Coding%20Sticker%20by%20EscuelaDevRock.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Githube.gif">
+<img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/VSCode.gif">
+</div>
+</br>
 <br/>
 
-## Favorite Languages
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinova&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=netinova&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinova&layout=compact&theme=react" /></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=netinova&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-<img align="center" width="350" src="https://camo.githubusercontent.com/778714951cd9b5d78e576f2148df29a73a2f84cddad602518eca234511a8fa25/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966">
-
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=netinova&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<hr>
 
 
