@@ -20,7 +20,7 @@ public Project CompleteProject<Tproject>(Tproject project)
 ```
 <br>
 I am a Student learning the art of Code and enthusiastic about creating cool stuff that people may find usefull and intresting.
-Currently i can build Desktop apps (.net), Android apps (kotlin), Web apps (react/.net Core) and more. I'm aiming to be a Full Stack Web Developer 🌐 and ML Engineer 🤖.
+Currently i can build Desktop apps (.net), Web apps (react/.net Core) and more. I'm aiming to be a Full Stack Web Developer 🌐 and ML Engineer 🤖.
 
 
 <hr>
@@ -35,12 +35,12 @@ Currently i can build Desktop apps (.net), Android apps (kotlin), Web apps (reac
 
 - 🔭 &nbsp; I’m currently working on **nothing right now**
 - 🤝 &nbsp; I’m looking to collaborate on 
-- 🌱 &nbsp; I’m currently learning react; 
+- 🌱 &nbsp; I’m currently learning C/C++; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/netinovem?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn]()
 - 📝 &nbsp; Checkout my [resume]()
-- 📚 &nbsp; When I am free, I play games and read IT related books.
+- 📚 &nbsp; When I am free, I play games and play music 🔥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
