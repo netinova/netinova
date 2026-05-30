@@ -57,7 +57,6 @@ Currently i can build Desktop apps (.net), Web apps (react/.net Core) and more. 
 <img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Kotlin_intensifies.gif">
 <img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Python.gif">
 <img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/React%20Js%20Sticker%20by%20EscuelaDevRock.gif">
-<img style="width: 100px" style="hieght: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
 <img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Js%20Html%20Sticker%20by%20codearock.gif">
 <img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/Style%20Css%20Sticker%20by%20codearock.gif">
 <img style="width: 100px" style="hieght: 100px" src="https://github.com/netinova/netinova/blob/main/images/React%20Js%20Sticker%20by%20codearock.gif">
