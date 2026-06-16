@@ -45,7 +45,7 @@ Currently i can build Desktop apps (.net), Web apps (react/.net Core) and more. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/netinova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="netinova" height="30" width="40" /></a>
-<a href="https://instagram.com/netinova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="netinova" height="30" width="40" /></a>
+<a href="https://instagram.com/netinovaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="netinova" height="30" width="40" /></a>
 </p>
 <br/><br/><br/>
 
