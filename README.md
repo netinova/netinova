@@ -70,19 +70,22 @@ Currently i can build Desktop apps (.net), Web apps (react/.net Core) and more. 
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img style="width: 45%" align="left" src="https://github-readme-stats.vercel.app/api?username=netinova&theme=react&show_icons=true&hide_border=true&count_private=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netinova&theme=react&show_icons=true&hide_border=true&layout=compact&count_private=true" />
-    </a>
-  </div>
-  <br><br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=netinova&theme=react-dark&bg_color=20232a&hide_border=true&count_private=true" width="100%"/>
+<p align="center">
+  <span style="display: inline-flex; gap: 80px; flex-wrap: nowrap; align-items: stretch;">
+    <a href="https://github-stats-extended.vercel.app/api?username=netinova&show_icons=true&include_all_commits=true&theme=tokyonight" style="flex: 1 1 0; min-width: 0;">
+      <img src="https://github-stats-extended.vercel.app/api?username=netinova&show_icons=true&include_all_commits=true&theme=tokyonight" style="height: 250px; width: auto; max-width: 100%; object-fit: contain;" alt="GitHub Stats" />
+    </a>
+    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=netinova&layout=donut&hide_title=true&langs_count=6&theme=tokyonight" style="flex: 1 1 0; min-width: 0;">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=netinova&layout=donut&hide_title=true&langs_count=6&theme=tokyonight" style="height: 250px; width: auto; max-width: 100%; object-fit: contain;" alt="Top Langs" />
+    </a>
+  </span>
+</p>
+
+
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=netinova&theme=tokyo-night&bg_color=20232a&hide_border=true&count_private=true" width="100%"/>
 </p>
 
 <hr>
