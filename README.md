@@ -74,10 +74,10 @@ Currently i can build Desktop apps (.net), Web apps (react/.net Core) and more. 
 <p align="center">
   <span style="display: inline-flex; gap: 80px; flex-wrap: nowrap; align-items: stretch;">
     <a href="https://github-stats-extended.vercel.app/api?username=netinova&show_icons=true&include_all_commits=true&theme=tokyonight" style="flex: 1 1 0; min-width: 0;">
-      <img src="https://github-stats-extended.vercel.app/api?username=netinova&show_icons=true&include_all_commits=true&theme=tokyonight" style="height: 250px; width: auto; max-width: 100%; object-fit: contain;" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=netinova&show_icons=true&include_all_commits=true&theme=tokyonight" style="height: 200px; width: auto; max-width: 100%; object-fit: contain;" alt="GitHub Stats" />
     </a>
     <a href="https://github-stats-extended.vercel.app/api/top-langs?username=netinova&layout=donut&hide_title=true&langs_count=6&theme=tokyonight" style="flex: 1 1 0; min-width: 0;">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=netinova&layout=donut&hide_title=true&langs_count=6&theme=tokyonight" style="height: 250px; width: auto; max-width: 100%; object-fit: contain;" alt="Top Langs" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=netinova&layout=donut&hide_title=true&langs_count=6&theme=tokyonight" style="height: 200px; width: auto; max-width: 100%; object-fit: contain;" alt="Top Langs" />
     </a>
   </span>
 </p>
