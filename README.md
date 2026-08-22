@@ -35,7 +35,7 @@ Currently i can build Desktop apps (.net), Web apps (react/.net Core) and more. 
 
 - 🔭 &nbsp; I’m currently working on **nothing right now**
 - 🤝 &nbsp; I’m looking to collaborate on 
-- 🌱 &nbsp; I’m currently learning C/C++; 
+- 🌱 &nbsp; I’m currently learning ai; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/netinovem?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn]()
